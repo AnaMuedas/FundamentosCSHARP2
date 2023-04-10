@@ -1,0 +1,16 @@
+D:\Documentos\Dev\Back\FundamentosCSHARP2\bin\Debug\net5.0\FundamentosCSHARP2.exe
+D:\Documentos\Dev\Back\FundamentosCSHARP2\bin\Debug\net5.0\FundamentosCSHARP2.deps.json
+D:\Documentos\Dev\Back\FundamentosCSHARP2\bin\Debug\net5.0\FundamentosCSHARP2.runtimeconfig.json
+D:\Documentos\Dev\Back\FundamentosCSHARP2\bin\Debug\net5.0\FundamentosCSHARP2.runtimeconfig.dev.json
+D:\Documentos\Dev\Back\FundamentosCSHARP2\bin\Debug\net5.0\FundamentosCSHARP2.dll
+D:\Documentos\Dev\Back\FundamentosCSHARP2\bin\Debug\net5.0\ref\FundamentosCSHARP2.dll
+D:\Documentos\Dev\Back\FundamentosCSHARP2\bin\Debug\net5.0\FundamentosCSHARP2.pdb
+D:\Documentos\Dev\Back\FundamentosCSHARP2\obj\Debug\net5.0\FundamentosCSHARP2.csproj.AssemblyReference.cache
+D:\Documentos\Dev\Back\FundamentosCSHARP2\obj\Debug\net5.0\FundamentosCSHARP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Dev\Back\FundamentosCSHARP2\obj\Debug\net5.0\FundamentosCSHARP2.AssemblyInfoInputs.cache
+D:\Documentos\Dev\Back\FundamentosCSHARP2\obj\Debug\net5.0\FundamentosCSHARP2.AssemblyInfo.cs
+D:\Documentos\Dev\Back\FundamentosCSHARP2\obj\Debug\net5.0\FundamentosCSHARP2.csproj.CoreCompileInputs.cache
+D:\Documentos\Dev\Back\FundamentosCSHARP2\obj\Debug\net5.0\FundamentosCSHARP2.dll
+D:\Documentos\Dev\Back\FundamentosCSHARP2\obj\Debug\net5.0\ref\FundamentosCSHARP2.dll
+D:\Documentos\Dev\Back\FundamentosCSHARP2\obj\Debug\net5.0\FundamentosCSHARP2.pdb
+D:\Documentos\Dev\Back\FundamentosCSHARP2\obj\Debug\net5.0\FundamentosCSHARP2.genruntimeconfig.cache
